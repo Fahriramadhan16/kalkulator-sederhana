@@ -23,7 +23,4 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam melakukan operasi matemat
 
 ---
 
-## 📷 Tampilan Aplikasi
-
-*(Tambahkan screenshot di sini jika tersedia)*
 
